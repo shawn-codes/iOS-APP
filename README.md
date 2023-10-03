@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='https://github.com/AvantiiM/ios101-project2-wordle-starter/blob/main/WordlePt2.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AvantiiM/ios10-project2-wordle-starter/blob/main/WordlePt2.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
