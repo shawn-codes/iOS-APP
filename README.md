@@ -1,4 +1,4 @@
-# Project 2 - *Wordle2 PT2*
+# Project 2 - *Wordle2–PT2*
 
 Submitted by: **Vashawn Robinson**
 
