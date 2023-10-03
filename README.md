@@ -1,4 +1,4 @@
-# Project 2 - *Wordle Pt. 2*
+# Project 2 - *ios101-project2-wordle-starter*
 
 Submitted by: **Vashawn Robinson**
 
